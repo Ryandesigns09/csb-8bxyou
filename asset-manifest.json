@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://ryandesigns09.github.io/csb-8bxyou/static/css/main.352cd472.chunk.css",
+    "main.js": "https://ryandesigns09.github.io/csb-8bxyou/static/js/main.1ca5878c.chunk.js",
+    "main.js.map": "https://ryandesigns09.github.io/csb-8bxyou/static/js/main.1ca5878c.chunk.js.map",
+    "runtime-main.js": "https://ryandesigns09.github.io/csb-8bxyou/static/js/runtime-main.9e02ccc1.js",
+    "runtime-main.js.map": "https://ryandesigns09.github.io/csb-8bxyou/static/js/runtime-main.9e02ccc1.js.map",
+    "static/css/2.ddc7bfce.chunk.css": "https://ryandesigns09.github.io/csb-8bxyou/static/css/2.ddc7bfce.chunk.css",
+    "static/js/2.8ff5c303.chunk.js": "https://ryandesigns09.github.io/csb-8bxyou/static/js/2.8ff5c303.chunk.js",
+    "static/js/2.8ff5c303.chunk.js.map": "https://ryandesigns09.github.io/csb-8bxyou/static/js/2.8ff5c303.chunk.js.map",
+    "index.html": "https://ryandesigns09.github.io/csb-8bxyou/index.html",
+    "static/css/2.ddc7bfce.chunk.css.map": "https://ryandesigns09.github.io/csb-8bxyou/static/css/2.ddc7bfce.chunk.css.map",
+    "static/css/main.352cd472.chunk.css.map": "https://ryandesigns09.github.io/csb-8bxyou/static/css/main.352cd472.chunk.css.map",
+    "static/js/2.8ff5c303.chunk.js.LICENSE.txt": "https://ryandesigns09.github.io/csb-8bxyou/static/js/2.8ff5c303.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e02ccc1.js",
+    "static/css/2.ddc7bfce.chunk.css",
+    "static/js/2.8ff5c303.chunk.js",
+    "static/css/main.352cd472.chunk.css",
+    "static/js/main.1ca5878c.chunk.js"
+  ]
+}
